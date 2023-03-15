@@ -40,7 +40,7 @@ Start the local development server
 
     php artisan serve
 
-You can now access the server at http://localhost/test-facebook/public/api/v1
+You can now access the server at http://localhost:8000/api/v1
 
 **TL;DR command list**
 
@@ -58,7 +58,8 @@ You can now access the server at http://localhost/test-facebook/public/api/v1
 
 Testing via postman can be done using a Postman Collection. This contains the web services for Posts and Groups.
 
-> [Clone-Facebook.postman_collection.zip](https://github.com/PedroArzate/clone-facebook/files/10979079/Clone-Facebook.postman_collection.zip)
+> [Clone-Facebook.postman_collection.zip](https://github.com/PedroArzate/clone-facebook/files/10979350/Clone-Facebook.postman_collection.zip)
+
 
 ----------
 
